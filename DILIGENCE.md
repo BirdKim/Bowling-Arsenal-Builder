@@ -1,0 +1,11 @@
+# Diligence Statement
+
+This project was completed as part of Anthropic's **AI Fluency: Framework & Foundations** course, which focuses on developing effective and responsible human-AI collaboration skills. The goal of the course was not simply to build an application, but to learn how to work alongside AI as a development partner while maintaining human oversight and decision-making throughout the software development process.
+
+Claude AI served as my primary development assistant, generating the majority of the application's codebase and assisting in gathering and organizing the bowling ball dataset used by the application. I chose to use AI as a collaborative tool to accelerate development while remaining actively involved in the project's planning, validation, and refinement.
+
+My primary responsibilities included defining the scope of the project, determining which features would be implemented, researching and selecting the bowling balls to include, cleaning and organizing the source CSV data, and managing the project's Git version control throughout development. I also reviewed the generated datasets to verify their accuracy and consistency before incorporating them into the application.
+
+Although the implementation was AI-assisted, I remained responsible for evaluating the application's behavior through manual testing. During testing, I identified user interface issues and inconsistencies, communicated those findings, and verified that the resulting fixes resolved the problems. I also made several modifications to the application's appearance and adjusted how certain data was represented to better align with the project's goals.
+
+Throughout the project, I treated AI as a software development collaborator rather than an autonomous solution. While Claude significantly accelerated implementation, the quality of the final application depended on defining project goals, validating data, managing the development workflow, identifying issues through testing, and making informed decisions throughout the project. This experience reinforced that successful AI-assisted software development relies not only on AI's ability to generate solutions, but also on human oversight, critical evaluation, iterative refinement, and responsible use of AI tools.
