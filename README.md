@@ -47,6 +47,10 @@ Claude AI served as my primary development assistant, generating much of the app
 
 This project demonstrates my ability to effectively direct AI tools while maintaining responsibility for project planning, data quality, testing, and final implementation decisions.
 
+## Acknowledgements
+
+This project was completed as part of Anthropic's **AI Fluency: Framework & Foundations** course, exploring effective and responsible AI-assisted software development using Claude AI.
+
 ## Known simplifications (worth revisiting)
 
 - `length_score` is a judgment-call mapping from messy free text (e.g.
